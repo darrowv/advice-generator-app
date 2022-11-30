@@ -1,0 +1,87 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: "Manrope", sans-serif;
+  background-color: hsl(218deg, 23%, 16%);
+  color: hsl(193deg, 38%, 86%);
+}
+@media (max-width: 600px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+.container {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+.card {
+  width: 550px;
+  min-height: 300px;
+  padding: 3rem;
+  text-align: center;
+  border-radius: 1rem;
+  background-color: hsl(217deg, 19%, 24%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+.card__id {
+  letter-spacing: 0.3rem;
+  color: hsl(150deg, 100%, 66%);
+}
+.card__quote {
+  font-size: 28px;
+  padding-bottom: 2.5rem;
+  padding-top: 1.5rem;
+}
+.card__division {
+  margin-bottom: 0.5rem;
+}
+.card .dice__btn {
+  width: 3.5rem;
+  height: 3.5rem;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  background-color: hsl(150deg, 100%, 66%);
+  display: grid;
+  place-items: center;
+  transition: 0.2s;
+  position: absolute;
+  top: calc(100% - 1.75rem);
+  left: 50%;
+  transform: translateX(-50%);
+}
+.card .dice__btn:hover {
+  box-shadow: 0 0 20px hsl(150deg, 100%, 66%);
+}
+.card .dice__btn img {
+  width: 1.5rem;
+}
+@media (max-width: 600px) {
+  .card {
+    width: 90%;
+    padding: 2rem;
+  }
+  .card__division img {
+    width: 90%;
+  }
+  .card__quote {
+    font-size: 25px;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
