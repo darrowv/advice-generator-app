@@ -12,6 +12,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Disclaimer](#disclaimer)
 
 
 ## Overview
@@ -56,3 +57,7 @@ Users should be able to:
 - Frontend Mentor - [@darrowv](https://www.frontendmentor.io/profile/darrowv)
 - LinkedIn - [Nasyr Akhmadov](https://linkedin.com/in/darrowv)
 - Telegram - [Muhammad Nasyr](https://t.me/m_nasyr)
+
+## Disclaimer
+
+- This application is created for educational purposes only. Author does not take responsibility for the quality of the advices/quotes. Do not take these them seriously.
