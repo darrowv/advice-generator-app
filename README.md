@@ -49,6 +49,7 @@ Users should be able to:
 
 - [Positioning in css](https://www.w3schools.com/css/css_positioning.asp)
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+- [API with random advices]("https://api.adviceslip.com/advice")
 - [API with random quotes etc.](https://github.com/lukePeavey/quotable)
 
 ## Author
@@ -60,4 +61,4 @@ Users should be able to:
 
 ## Disclaimer
 
-- This application is created for educational purposes only. Author does not take responsibility for the quality of the advices/quotes. Do not take these them seriously.
+- This application is created for educational purposes only. Author does not take responsibility for the quality of the advices/quotes. Do not take them seriously.
