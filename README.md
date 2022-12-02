@@ -49,7 +49,7 @@ Users should be able to:
 
 - [Positioning in css](https://www.w3schools.com/css/css_positioning.asp)
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
-- [API with random advices]("https://api.adviceslip.com/advice")
+- [API with random advices](https://api.adviceslip.com)
 - [API with random quotes etc.](https://github.com/lukePeavey/quotable)
 
 ## Author
